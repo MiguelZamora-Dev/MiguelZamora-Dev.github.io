@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.427615c1.css",
-    "main.js": "/static/js/main.a6b8e107.js",
+    "main.css": "/static/css/main.1a1d0f3b.css",
+    "main.js": "/static/js/main.4838b834.js",
     "static/js/787.a5fa54f9.chunk.js": "/static/js/787.a5fa54f9.chunk.js",
     "static/media/profilepic.jpg": "/static/media/profilepic.d2524c361d5b79bf7142.jpg",
     "static/media/facelandmarks.png": "/static/media/facelandmarks.4ad3281ebf83a2e05a08.png",
@@ -21,13 +21,14 @@
     "static/media/webdesign.png": "/static/media/webdesign.34fa034c4ed0c59eb062.png",
     "static/media/ai.png": "/static/media/ai.12ebbced4f224aa15d45.png",
     "static/media/discordbot.png": "/static/media/discordbot.b07a132b3e1d3721b65f.png",
+    "static/media/qr.svg": "/static/media/qr.b5fb327f372d35db6cc859e03145d299.svg",
     "index.html": "/index.html",
-    "main.427615c1.css.map": "/static/css/main.427615c1.css.map",
-    "main.a6b8e107.js.map": "/static/js/main.a6b8e107.js.map",
+    "main.1a1d0f3b.css.map": "/static/css/main.1a1d0f3b.css.map",
+    "main.4838b834.js.map": "/static/js/main.4838b834.js.map",
     "787.a5fa54f9.chunk.js.map": "/static/js/787.a5fa54f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.427615c1.css",
-    "static/js/main.a6b8e107.js"
+    "static/css/main.1a1d0f3b.css",
+    "static/js/main.4838b834.js"
   ]
 }
